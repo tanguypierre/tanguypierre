@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 📚 Currently studying scientific computing in Strasbourg 
+- 📚 Currently studying Scientific Computing in Strasbourg 
 
